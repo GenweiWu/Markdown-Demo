@@ -16,4 +16,4 @@ public static void main(){
 
 ---
 ###3、通过css格式类设置字体颜色
-<font color="red" size="6px">**2016，猴年来啦！**</font>
+<font color="red" size="6px">2016，猴年来啦！</font>
